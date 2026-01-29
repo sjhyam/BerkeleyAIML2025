@@ -81,8 +81,8 @@ This Jupyter notebook implements a simple machine learning pipeline to predict c
 
 1. **Clone the Repo**:
    ```
-   git clone https://github.com/sjhyam/BerkelyAIML2025.git
-   cd BerkelyAIML2025/CustomerCoupon
+   git clone https://github.com/sjhyam/BerkeleyAIML2025.git
+   cd BerkeleyAIML2025/CustomerCoupon
    ```
 
 2. **Set Up Environment** (use a virtual env to avoid conflicts):
@@ -93,7 +93,7 @@ This Jupyter notebook implements a simple machine learning pipeline to predict c
    ```
 
 3. **Handle Data**:
-   - Download `data/coupons.csv` if missing (from [raw link](https://raw.githubusercontent.com/sjhyam/BerkelyAIML2025/main/CustomerCoupon/data/coupons.csv)).
+   - Download `data/coupons.csv` if missing (from [raw link](https://raw.githubusercontent.com/sjhyam/BerkeleyAIML2025/main/CustomerCoupon/data/coupons.csv)).
    - Or run this in the notebook to create the folder: `import os; os.makedirs('data', exist_ok=True)`.
 
 4. **Run the Notebook**:

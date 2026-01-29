@@ -1,5 +1,5 @@
-# BerkelyAIML2025
-BerkelyAIML2025Assignment
+# BerkeleyAIML2025
+BerkeleyAIML2025Assignment
 
 Module
 - CustomerCoupon
