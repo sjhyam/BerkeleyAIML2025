@@ -5,3 +5,4 @@ Module
 - CustomerCoupon
 - Used-Car-Price-Analysis
 - ComparingClassifiers
+- capstone_eda
