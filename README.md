@@ -6,3 +6,4 @@ Module
 - Used-Car-Price-Analysis
 - ComparingClassifiers
 - capstone_eda
+- berkeley-ml-capstone
